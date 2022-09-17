@@ -2,12 +2,7 @@
 #include <vector>
 #include <algorithm>
 #include <string>
-#include <queue>
-#include <stack>
-#include <map>
-#include <unordered_set>
 #include <unordered_map>
-#include <numeric>
 using namespace std;
 
 bool all(const vector<int>& nums) {
