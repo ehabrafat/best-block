@@ -119,6 +119,6 @@ int main() {
 		},
 	};
 	vector<string> req{ "gym", "store" };
-	cout << bestBlock(blocks, req); // Block (2)
+	cout << bestBlock(blocks, req); // Block Index (2)
 }
  
